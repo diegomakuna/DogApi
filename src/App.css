@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -8,15 +6,37 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
 }
 
 .App-link {
   color: #09d3ac;
+}
+.cards{
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 25px;
+  border-radius: 4px;
+  background-color: #fff;
+}
+.card-image{
+  display: flex;
+    flex: 0 0 32%;
+    height: 300px;
+    background-color: #fff;
+    border: 1px solid #c9c9c9;
+    border-radius: 2px;
+    overflow: hidden;
+    margin: 5px;
+    padding: 17px 0;
+    box-shadow: 7px 8px 11px -6px #adabab;
+    -moz-box-shadow: 7px 8px 11px -6px #adabab;
+    -webkit-box-shadow: 7px 8px 11px -6px #adabab;
+}
+.image-card img {
+margin: 0 auto;
+width: 90%;
 }
