@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/dogapi/static/css/main.b66eb09a.chunk.css",
-    "main.js": "/dogapi/static/js/main.bb9a729b.chunk.js",
-    "main.js.map": "/dogapi/static/js/main.bb9a729b.chunk.js.map",
-    "runtime-main.js": "/dogapi/static/js/runtime-main.5759379c.js",
-    "runtime-main.js.map": "/dogapi/static/js/runtime-main.5759379c.js.map",
-    "static/css/2.5dbdccff.chunk.css": "/dogapi/static/css/2.5dbdccff.chunk.css",
-    "static/js/2.eaabc0a5.chunk.js": "/dogapi/static/js/2.eaabc0a5.chunk.js",
-    "static/js/2.eaabc0a5.chunk.js.map": "/dogapi/static/js/2.eaabc0a5.chunk.js.map",
-    "index.html": "/dogapi/index.html",
-    "precache-manifest.385f4a17900925da34cb965e7363368d.js": "/dogapi/precache-manifest.385f4a17900925da34cb965e7363368d.js",
-    "service-worker.js": "/dogapi/service-worker.js",
-    "static/css/2.5dbdccff.chunk.css.map": "/dogapi/static/css/2.5dbdccff.chunk.css.map",
-    "static/css/main.b66eb09a.chunk.css.map": "/dogapi/static/css/main.b66eb09a.chunk.css.map",
-    "static/media/App.css": "/dogapi/static/media/bg.f9479d52.jpg"
+    "main.css": "/DogApi/static/css/main.2a3dc0cd.chunk.css",
+    "main.js": "/DogApi/static/js/main.13556119.chunk.js",
+    "main.js.map": "/DogApi/static/js/main.13556119.chunk.js.map",
+    "runtime-main.js": "/DogApi/static/js/runtime-main.aa21bd05.js",
+    "runtime-main.js.map": "/DogApi/static/js/runtime-main.aa21bd05.js.map",
+    "static/css/2.5dbdccff.chunk.css": "/DogApi/static/css/2.5dbdccff.chunk.css",
+    "static/js/2.eaabc0a5.chunk.js": "/DogApi/static/js/2.eaabc0a5.chunk.js",
+    "static/js/2.eaabc0a5.chunk.js.map": "/DogApi/static/js/2.eaabc0a5.chunk.js.map",
+    "index.html": "/DogApi/index.html",
+    "precache-manifest.32c379f94507bcfd1154b241519dc0ae.js": "/DogApi/precache-manifest.32c379f94507bcfd1154b241519dc0ae.js",
+    "service-worker.js": "/DogApi/service-worker.js",
+    "static/css/2.5dbdccff.chunk.css.map": "/DogApi/static/css/2.5dbdccff.chunk.css.map",
+    "static/css/main.2a3dc0cd.chunk.css.map": "/DogApi/static/css/main.2a3dc0cd.chunk.css.map",
+    "static/media/App.css": "/DogApi/static/media/bg.f9479d52.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5759379c.js",
+    "static/js/runtime-main.aa21bd05.js",
     "static/css/2.5dbdccff.chunk.css",
     "static/js/2.eaabc0a5.chunk.js",
-    "static/css/main.b66eb09a.chunk.css",
-    "static/js/main.bb9a729b.chunk.js"
+    "static/css/main.2a3dc0cd.chunk.css",
+    "static/js/main.13556119.chunk.js"
   ]
 }
